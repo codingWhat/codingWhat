@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @codingWhat
 - 👀 I’m interested in distributed system design 
 - 🌱 I’m currently learning Go
-- 💞️ I’m looking to collaborate on x?
+- 💞️ My Blog: https://codingwhat.github.io/
 - 📫 How to reach me. 
 
 <!---
