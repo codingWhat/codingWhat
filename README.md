@@ -14,8 +14,7 @@
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
-
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](hw3978574@gmail.com)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:produtor.hw3978574@gmail.com)
   
 </div>
 
