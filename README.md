@@ -48,11 +48,6 @@
 </p>
 
 ------
-
-[codingWhat](https://github.com/codingWhat)
-
-Last Edited on: 19/11/2024
-
 <!---
 codingWhat/codingWhat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
